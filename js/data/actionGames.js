@@ -1,8 +1,6 @@
-const actionGames = [
-    {
+const actionGames = [{
         name: "Grand Theft Auto V",
-        platforms: [
-            {
+        platforms: [{
                 platform: {
                     name: "PC"
                 }
@@ -22,8 +20,7 @@ const actionGames = [
         background_image: "https://media.rawg.io/media/games/b11/b115b2bc6a5957a917bc7601f4abdda2.jpg",
         rating: 4.48,
         id: 3498,
-        genres: [
-            {
+        genres: [{
                 name: "Shooter",
                 slug: "shooter"
             },
@@ -35,8 +32,7 @@ const actionGames = [
     },
     {
         name: "The Elder Scrolls V: Skyrim",
-        platforms: [
-            {
+        platforms: [{
                 platform: {
                     name: "PC"
                 }
@@ -60,8 +56,7 @@ const actionGames = [
         released: "2011-11-11",
         background_image: "https://media.rawg.io/media/games/148/1485f72434101885b098d4290bf0ba67.jpg",
         id: 5679,
-        genres: [
-            {
+        genres: [{
                 name: "Action",
                 slug: "action"
             },
@@ -73,8 +68,7 @@ const actionGames = [
     },
     {
         name: "Left 4 Dead 2",
-        platforms: [
-            {
+        platforms: [{
                 platform: {
                     name: "PC"
                 }
@@ -89,8 +83,7 @@ const actionGames = [
         background_image: "https://media.rawg.io/media/games/c25/c25ebb8eb08790277ae2e2dce0d62174.jpg",
         rating: 4.09,
         id: 12020,
-        genres: [
-            {
+        genres: [{
                 name: "Shooter",
                 slug: "shooter"
             },
@@ -102,8 +95,7 @@ const actionGames = [
     },
     {
         name: "Borderlands 2",
-        platforms: [
-            {
+        platforms: [{
                 platform: {
                     name: "PC"
                 }
@@ -138,8 +130,7 @@ const actionGames = [
         background_image: "https://media.rawg.io/media/games/588/588c6bdff3d4baf66ec36b1c05b793bf.jpg",
         rating: 4.07,
         id: 802,
-        genres: [
-            {
+        genres: [{
                 name: "Shooter",
                 slug: "shooter"
             },
